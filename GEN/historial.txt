@@ -1,0 +1,8 @@
+Nombre del propietario: GANDY, Datos de la placa: XNG78, Marca del vehiculo: Chevrolet, Contacto: 0983235084, Fecha de ingreso: 05/07/2006
+, Fecha de salida: 06/07/2006
+Nombre del propietario: , Datos de la placa: , Marca del vehiculo: , Contacto: , Fecha de ingreso: 
+, Fecha de salida: 
+Nombre del propietario: sandy, Datos de la placa: XNG79, Marca del vehiculo: Tucson, Contacto: 0993899785, Fecha de ingreso: 07/08/2020
+, Fecha de salida: 08/08/2020
+Nombre del propietario: , Datos de la placa: , Marca del vehiculo: , Contacto: , Fecha de ingreso: 
+, Fecha de salida: 
